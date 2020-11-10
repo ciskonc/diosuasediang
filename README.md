@@ -6,3 +6,7 @@
 
 # 使用方法
 下载“潮汕话字典rime.txt”或Releases，rime导入即可。
+
+## 联系方式
+- mail:gamer@tan0.me
+- telegram:@VAVAVAVAVAVAVAVAVAVAVAVAVAVAVAVA
