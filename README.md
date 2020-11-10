@@ -13,7 +13,8 @@
 
 ## 致谢
 
-- [Rime](https://rime.im)：中州韵输入法引擎
+- [深蓝词库转换](https://github.com/studyzy/imewlconverter)
+- [iRime](https://github.com/jimmy54/iRime)
 - [Trime](https://github.com/osfans/trime)：同文安卓输入法平台
 - [dieghv](https://github.com/kahaani/dieghv)：潮语拼音输入法方案
 - [iRime](https://github.com/jimmy54/iRime)
