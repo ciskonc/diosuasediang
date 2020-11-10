@@ -11,6 +11,11 @@
 - mail: gamer@tan0.me
 - telegram: @mozzaq
 
+## 潮语拼音教程
+
+- [在线阅读](https://kahaani.github.io/gatian)
+
+
 ## 致谢
 
 - [深蓝词库转换](https://github.com/studyzy/imewlconverter)
