@@ -10,3 +10,10 @@
 ## 联系方式
 - mail: gamer@tan0.me
 - telegram: @mozzaq
+
+## 致谢
+
+- [Rime](https://rime.im)：中州韵输入法引擎
+- [Trime](https://github.com/osfans/trime)：同文安卓输入法平台
+- [iRime](https://github.com/jimmy54/iRime)
+- [dieghv](https://github.com/kahaani/dieghv)
