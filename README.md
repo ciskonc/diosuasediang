@@ -5,8 +5,8 @@
 - 由于源站存在大量的词组没有正字的汉字 只能暂且以读音作为词组。如果有人有更好的方案请告诉我。
 
 # 使用方法
-下载“潮汕话字典rime.txt”或Releases，rime导入即可。
+下载“rime.txt”或Releases，rime导入即可。
 
 ## 联系方式
 - mail: gamer@tan0.me
-- telegram: @VAVAVAVAVAVAVAVAVAVAVAVAVAVAVAVA
+- telegram: @mozzaq
