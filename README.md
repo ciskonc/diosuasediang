@@ -1,4 +1,4 @@
-# 潮语 潮汕话字典 Rime dict for Teochew dialect
+# 潮语 潮汕话RIME詞庫 Rime dict for Teochew dialect
 潮汕话字典 rime用 其他输入法(若有)可以用“深蓝词库转换”转换下
 - 本项目字典数据来自https://www.mogher.com/baike 2020/11/10
 - 本字典存在口音读音问题，有需要请自行修改
