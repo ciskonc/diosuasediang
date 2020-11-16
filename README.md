@@ -12,9 +12,10 @@
 - telegram: @mozzaq
 
 ## 潮语拼音教程
-
 - [在线阅读](https://kahaani.github.io/gatian)
 
+## 关于正字
+- https://www.zhihu.com/question/53402902
 
 ## 致谢
 
